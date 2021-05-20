@@ -1,0 +1,1 @@
+Barbarian;Bard;Cleric;Druid;Fighter;Paladin;Rouge;Warlock;Wizard

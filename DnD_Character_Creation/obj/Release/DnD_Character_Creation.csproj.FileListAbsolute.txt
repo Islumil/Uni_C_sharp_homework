@@ -1,0 +1,11 @@
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\bin\Release\DnD_Character_Creation.exe.config
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\bin\Release\DnD_Character_Creation.exe
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\bin\Release\DnD_Character_Creation.pdb
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\obj\Release\DnD_Character_Creation.csprojAssemblyReference.cache
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\obj\Release\DnD_Character_Creation.frm_final.resources
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\obj\Release\DnD_Character_Creation.frm_main.resources
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\obj\Release\DnD_Character_Creation.Properties.Resources.resources
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\obj\Release\DnD_Character_Creation.csproj.GenerateResource.cache
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\obj\Release\DnD_Character_Creation.csproj.CoreCompileInputs.cache
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\obj\Release\DnD_Character_Creation.exe
+C:\Users\HAR6BP\source\repos\DnD_Character_Creation\DnD_Character_Creation\obj\Release\DnD_Character_Creation.pdb
